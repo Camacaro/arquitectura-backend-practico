@@ -1,0 +1,35 @@
+
+* Lo primero que hau que hacer en un diseño de bajo nivel es definir el modelo
+  Se coloca la descripcion en (02-mi-documento-design) definicion de modelo
+
+
+Básicamente un diseño a bajo nivel se refiere a especificar exactamente cómo va a 
+funcionar cada una de las secciones que detallamos en la arquitectura del sistema, 
+desde qué tecnologías vamos a usar, cómo se van a comunicar, TODO.
+.
+Para ello podemos basarnos en diagramas, lo más importante a tomar en cuenta 
+es que esto lo podemos poner en la sección de Modelo de Datos de nuestro 
+documento de diseño.
+.
+
+
+También se habló de las etapas que realizamos para hacer las pruebas, 
+esto se conoce como TDD (Test Driven Development) que es básicamente 
+una metodología de desarrollo basada en tests, aquí lo importante a notar 
+son los pasos, desde la creación del usuario, mandar la solicitud y probar 
+que todo funcione, esos son los pasos que debemos integrar en un TDD, 
+
+Por último, también se habló del flujo de integración continua,
+
+
+
+TDD: 
+  No es mas que buscar que es lo que va hacer mi funcionalidad las caracteristica que
+  tendra esta funcion, Escoger el caso más simple que debe resolver el algoritmo.
+  Aplica la metodología RED, GREEN, REFACTOR,
+  RED: Crear el test para que falle 
+  GREEN: Escribir el codigo minimo para que pase el test
+  REFACTOR: Refactorizar el codigo, eliminar redundancia
+  REPEAT
+
+

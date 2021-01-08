@@ -29,6 +29,14 @@ poner diagramas de secuencia, uml, etc
 ### Modelo de datos
 Poner diseño de entidades, Jsons, tablas, diagramas entidad relación, etc..
 
+
+### Plan de pruebas (Esto es solo cuando se implementa el diseño de bajo nivel)
+* Crear proyeto de pruebas que valide los siguientes casos de uso.
+- Registrar usuario, crear review, simular que visitante puede leer el review escrito (test endtoend)
+
+### Integracion Continua (Esto es solo cuando se implementa el diseño de bajo nivel)
+* Ambientes dev, testing y prod: al tener el codigo listo se pasa al testing al resultar positivo se pasa a produccion.
+
 ## Limitaciones
 Lista de limitaciones conocidas. Puede ser en formato de lista cuantificable.
 Ej.

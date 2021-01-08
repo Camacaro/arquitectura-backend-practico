@@ -1,0 +1,10 @@
+
+Hacer preguntas Sobre quienes usaran el sistema
+
+Quienes van a usar el sistema y un estimado de personas?
+  Usuarios -> leer reviews Millones /esto nos dice el trafico que puede tener nuestra aplicacion
+           -> escribir reviews solo 10 personas ** Aqui hay una gran diferencia 
+
+Tiempo estimado para las peticiones?
+  lectura 300ms o menos 
+  write 500ms 

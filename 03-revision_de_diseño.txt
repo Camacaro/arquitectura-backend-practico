@@ -8,6 +8,11 @@ tener mas un esquema o comportamiento y obtener feedback de como podemos mejorar
 teniendo en cuenta, rendimiento, costos y modelo de negocio.
 
 Cosas importantes a tener en cuenta:
+“¿por qué?”, 
+“¿por qué esto es así?”, 
+“¿por qué quiero usar este servicio?”, 
+“¿por qué esta estructura me conviene más que la otra?”, 
+“¿por qué hacerlo de esta manera y no hacerlo de esta otra?”
 .
 ¿Por qué?: 
 Especifica por qué una alternativa es mejor que otra o por qué puede beneficiar más.
@@ -23,4 +28,5 @@ Verifica si tus propuestas realmente satisfacen los requerimientos que tienes qu
 ¿Cómo mejoran los costos? Mira si tus propuestas ayudan a disminuir costos en infraestructura.
 
 Siempre pide opinión de los demás, todos podemos tener opiniones diferentes en cuanto 
-a la realización de la planificación de la distribución del sistema, entre las opiniones de todos podemos llegar a una solución más eficiente ^^
+a la realización de la planificación de la distribución del sistema, 
+entre las opiniones de todos podemos llegar a una solución más eficiente ^^
