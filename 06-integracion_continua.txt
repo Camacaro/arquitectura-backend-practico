@@ -1,0 +1,8 @@
+
+Esto nos sirve para poder definir nuestro pipeline y tener despliegues de nuevas
+funcionalidades hacia los diferentes ambientes, estos pipeline se puede configurar 
+de tal manera que le digamos despliega en ciertas ciudades, cierto paies o continente
+se puede hacer de manera gradual y tambien cada cierto tiempo 
+
+# https://sequencediagram.org/
+06-integracion-con-plan-distribucion.txt

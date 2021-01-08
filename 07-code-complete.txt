@@ -1,0 +1,11 @@
+
+No es mas que definir el progreso de la tarea 
+Backlog - In progress - Done 
+
+tener el concepto DoD (definition on Done) saber que significa tener la tarea termina 
+si cuenta con la certificacion, ya con los test, etc. 
+concepto de terminado. 
+
+Trade Off: Sacrificar una cosa por otra. Esto no es necesariamente malo, 
+pero hay que tener en cuenta que cada decisión que tomamos puede afectar 
+a otra cosa.

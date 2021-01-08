@@ -1,0 +1,1 @@
+console.log('Hello TypeScript 123s 432')

@@ -1,0 +1,6 @@
+title Plan de distribucion de nuevas funcionalidades
+
+Dev->Testing: Despues de un dia
+Testing->Prod America del Sur: Despues de un dia
+Prod America del Sur->Europa: Despues de un dia
+Europa->Asia: Despues de un dia
